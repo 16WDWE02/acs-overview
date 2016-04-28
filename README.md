@@ -48,7 +48,7 @@ Using HTML5 Canvas and SVG to draw graphics. Not with PhotoShop or Illustrator (
 
 Sometimes writing HTML and CSS from scratch takes ages just to get something basic up and running. What if you want to have something *now*! Frameworks such as [Foundation](http://foundation.zurb.com/) and [Bootstrap](http://getbootstrap.com/) provide you a robust grid system with a few extra bits and pieces to make web development (and prototyping) *much* faster.
 
-**These frameworks must not be used for this assignment**
+**These frameworks must NOT be used for this assignment**
 
 ## Mobile app development
 
